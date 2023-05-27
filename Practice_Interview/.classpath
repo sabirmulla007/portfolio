@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="test/java/|main/java/|main/resources/|test/resources/" kind="src" output="target/classes" path="src"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/base-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/docker-java-api-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/docker-java-core-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/docker-java-transport-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/docker-java-transport-httpclient5-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/elemental2-promise-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/gson-2.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/guava-gwt-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/httpclient5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/httpcore5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/httpcore5-h2-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/jna-5.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/jsinterop-annotations-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/acceleration/workspace/selenium basic/jars/webdrivermanager-5.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
